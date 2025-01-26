@@ -1,9 +1,19 @@
 # Number-Guessing
 
-I made my code meet the minimium requirements and did not add all the fancy stuff etc.
+How to play:
 
+1. You first get asked a difficulty. You would need to select from the following:
+   Easy(10 Chances)
+   Medium(5 Chances)
+   Hard(3 Chances)
 
+2. You will then be given a number of attempts based on which difficulty you picked.
+   You then need to guess which number is the program thinking of from 1-100.
 
+3. If your answer is lower than the number the program will tell you your answer is lower than the number.
+   If it's higher then the system will tell you it's higher than what the number you picked.
+
+4. Once you run out of lives the game will end!
 
 
 
