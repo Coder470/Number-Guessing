@@ -15,7 +15,7 @@ How to play:
 
 4. Once you run out of lives the game will end!
 
-   enjoy :D
+
 
 
 
