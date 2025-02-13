@@ -30,7 +30,7 @@ def difficulty_select():
             print()
             print("Great! You have selected the Hard difficulty level.")
             print("Let's start the game!")
-            return 3   #Hard Mode
+            return 3 #Hard Mode
     
 
 def number_guess_generator():
