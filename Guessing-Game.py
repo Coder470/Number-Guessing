@@ -30,7 +30,7 @@ def difficulty_select():
             print()
             print("Great! You have selected the Hard difficulty level.")
             print("Let's start the game!")
-            return 3 #Hard Mode
+            return 3   #Hard Mode
     
 
 def number_guess_generator():
@@ -52,9 +52,10 @@ def guessing(attempts,number):
 
         Guess = int(input("Enter your guess: "))
 
+if __name__ == "__main__":
 
-#Game execution
-Welcome_Message()
-attempts = difficulty_select()
-number = number_guess_generator()
-guessing(attempts,number)
+    #Game execution
+    Welcome_Message()
+    attempts = difficulty_select()
+    number = number_guess_generator()
+    guessing(attempts,number)
